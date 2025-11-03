@@ -1,0 +1,3 @@
+[2025-11-03 20:45:18] records_2025-11-03.txt created and archived successfully.
+[2025-11-03 20:45:43] User attempted to delete non-existent file 'Bob'.
+[2025-11-03 20:50:43] Error during backup and archive: Destination path '/home/bonnie/Desktop/Gachoka/StudentFiles/Archive/backup_records_2025-11-03.txt' already exists
